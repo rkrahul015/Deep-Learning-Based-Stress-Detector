@@ -1,0 +1,4 @@
+*.pyc
+*.dat 
+*.hdf5
+*.sav
